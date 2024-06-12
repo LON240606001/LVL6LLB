@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "64b4f47f6d1b6978",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bc394b473aa1d8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03cf9de6cb592917",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "775d327d3627ca66",
+    "type": "split",
+    "children": [
+      {
+        "id": "99958d3474ff9458",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a267aa508e67a700",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "49104f39b16a0948",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8daaca4c64d18959",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4e264090e96834c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8466754d7f35f3b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b6d323eb281069b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "206190645754eae4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6943f061cab2b9f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6e8140d8aeba8d75",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "a267aa508e67a700",
+  "lastOpenFiles": [
+    "LAW604 Civil Litigation and Advocacy/Week 1/LAW604 Civil Litigation and Advocacy_Week 1 Workshop Worksheet 3.docx",
+    "LAW604 Civil Litigation and Advocacy/Week 1/LAW604 Civil Litigation and Advocacy_Week 1 Workshop Worksheet 2 With Answers.pdf",
+    "LAW604 Civil Litigation and Advocacy/Week 1/LAW604 Civil Litigation and Advocacy_Week 1 Workshop Worksheet 1 With Answers.pdf",
+    "LAW604 Civil Litigation and Advocacy/Week 1/LAW604 Civil Litigation and Advocacy_Week 1 Seminar with Answers.pptx",
+    "LAW604 Civil Litigation and Advocacy/Week 1",
+    "LAW604 Civil Litigation and Advocacy",
+    "LVL6LLB/LAW604 Civil Litigation and Advocacy/Week 1/LAW604 Civil Litigation and Advocacy_Week 1 Workshop Worksheet 3.docx",
+    "LVL6LLB/LAW604 Civil Litigation and Advocacy/Week 1/LAW604 Civil Litigation and Advocacy_Week 1 Workshop Worksheet 2 With Answers.pdf",
+    "LVL6LLB/LAW604 Civil Litigation and Advocacy/Week 1/LAW604 Civil Litigation and Advocacy_Week 1 Workshop Worksheet 1 With Answers.pdf",
+    "LVL6LLB/LAW604 Civil Litigation and Advocacy/Week 1/LAW604 Civil Litigation and Advocacy_Week 1 Seminar with Answers.pptx",
+    "LVL6LLB/LAW604 Civil Litigation and Advocacy/Week 1"
+  ]
+}

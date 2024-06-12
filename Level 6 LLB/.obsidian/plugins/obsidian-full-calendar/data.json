@@ -1,0 +1,21 @@
+{
+  "calendarSources": [
+    {
+      "type": "ical",
+      "color": "#fff947",
+      "url": "https://mytimetable.bil.ac.uk/ical?6669eaac&group=true&timetable=!MjMyNCFzdHVkZW50IUxPTjI0MDYwNjAwMQ==&eu=TE9OMjQwNjA2MDAxQGJpbC5hYy51aw==&h=v9ROlz9g7JKTKUfN8Xb5hFHwPhzNrCfNSg-O0Kabnv8="
+    },
+    {
+      "type": "local",
+      "color": "#dca8a8",
+      "directory": "LAW604 Civil Litigation and Advocacy"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "dayGridMonth",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": true
+}
